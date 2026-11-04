@@ -1,5 +1,3 @@
-# app-dev
-My first repository
 # Breaking Bad (2008–2013)
 
 The critically acclaimed television drama **Breaking Bad**, created by Vince Gilligan, is widely regarded as one of the greatest television series of all time. It tells the story of a disillusioned high school chemistry teacher who transforms into a ruthless kingpin in the criminal underworld.
